@@ -33,7 +33,7 @@ I design and implement **AI/ML solutions** with a focus on:
 I'm actively seeking **AI/ML Engineering** roles where I can contribute to innovative applications in **NLP, RL, CV**, and **AI security**.
 
 If you're working on LLMs, applied AI, or machine learning infrastructure — **let’s chat!**  
-📫 [My LinkedIn](https://www.linkedin.com/in/ming-zhu-28803a235/) • [Email Me](mailto:Lavender5281@gmail.com)
+📫 [My LinkedIn](https://www.linkedin.com/in/ming-zhu-28803a235/)
 
 <!--
 **MingZhu5281/MingZhu5281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
